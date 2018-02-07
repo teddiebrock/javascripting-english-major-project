@@ -1,0 +1,1 @@
+$(".second-paragraph").addClass("lead")
